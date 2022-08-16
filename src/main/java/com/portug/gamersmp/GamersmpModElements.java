@@ -46,6 +46,8 @@ public class GamersmpModElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 
 	public GamersmpModElements() {
+		sounds.put(new ResourceLocation("gamersmp", "rap_do_minecraft"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("gamersmp", "rap_do_minecraft")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("gamersmp").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

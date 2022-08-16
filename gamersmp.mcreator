@@ -61,21 +61,32 @@
       }
     },
     {
-      "name": "Bruh",
-      "type": "tool",
-      "sortid": 3,
+      "name": "Rapmc",
+      "type": "musicdisc",
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "bruh"
+      "registry_name": "rapmc"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "rap_do_minecraft",
+      "files": [
+        "rap-do-minecraft-"
+      ],
+      "category": "neutral",
+      "subtitle": "rap do minecraft"
+    }
+  ],
   "language_map": {
     "en_us": {
       "itemGroup.tabmod": "Mod",
+      "subtitles.rap_do_minecraft": "rap do minecraft",
+      "item.gamersmp.rapmc": "Rap do minecraft",
       "block.gamersmp.cara": "OMG sou eu",
-      "item.gamersmp.bruh": "Bruh"
+      "item.gamersmp.rapmc.desc": "KK pq eu adicionei isto??"
     }
   },
   "foldersRoot": {

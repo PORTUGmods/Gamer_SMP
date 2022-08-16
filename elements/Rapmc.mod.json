@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disco1",
+    "name": "Rap do minecraft",
+    "description": "KK pq eu adicionei isto??",
+    "creativeTab": {
+      "value": "CUSTOM:Mod"
+    },
+    "music": {
+      "value": "CUSTOM:rap_do_minecraft"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

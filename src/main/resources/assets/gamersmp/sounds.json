@@ -1,0 +1,12 @@
+{
+  "rap_do_minecraft": {
+    "category": "neutral",
+    "subtitle": "subtitles.rap_do_minecraft",
+    "sounds": [
+      {
+        "name": "gamersmp:rap-do-minecraft-",
+        "stream": false
+      }
+    ]
+  }
+}
