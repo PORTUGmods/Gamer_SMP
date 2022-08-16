@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Mod",
+    "icon": {
+      "value": "Items.GOLDEN_APPLE#1"
+    },
+    "showSearch": true
+  }
+}

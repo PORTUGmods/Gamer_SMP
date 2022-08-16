@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gamersmp:blocks/screenshot_5",
+    "up": "gamersmp:blocks/screenshot_5",
+    "north": "gamersmp:blocks/screenshot_5",
+    "east": "gamersmp:blocks/screenshot_5",
+    "south": "gamersmp:blocks/screenshot_5",
+    "west": "gamersmp:blocks/screenshot_5",
+    "particle": "gamersmp:blocks/screenshot_5"
+  }
+}
