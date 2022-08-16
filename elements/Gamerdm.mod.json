@@ -1,0 +1,51 @@
+{
+  "_fv": 33,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "frozen_river"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONEBRICK#0"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Redwater"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Redwater"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Gamerdm Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "receita_12",
+    "portalTexture": "screenshot_5",
+    "enablePortal": true
+  }
+}

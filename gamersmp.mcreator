@@ -114,6 +114,17 @@
       "metadata": {
         "gb": true
       }
+    },
+    {
+      "name": "Gamerdm",
+      "type": "dimension",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerdm",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
@@ -130,6 +141,7 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabmod": "Mod",
+      "item.gamersmp.gamerdm": "Gamerdm Portal Igniter",
       "item.gamersmp.darkgamerpt_spawn_egg": "Darkgamerpt Spawn Egg",
       "subtitles.rap_do_minecraft": "rap do minecraft",
       "item.gamersmp.rapmc": "Rap do minecraft",

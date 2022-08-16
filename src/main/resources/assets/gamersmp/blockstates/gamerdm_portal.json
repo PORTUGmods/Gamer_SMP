@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "gamersmp:block/gamerdm_portal_ew"
+    },
+    "axis=x": {
+      "model": "gamersmp:block/gamerdm_portal_ns"
+    }
+  }
+}
