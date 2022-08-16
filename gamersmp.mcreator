@@ -67,6 +67,53 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rapmc"
+    },
+    {
+      "name": "Darkgamerpt",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkgamerpt"
+    },
+    {
+      "name": "DarkgamerptEntityDies",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkgamerpt_entity_dies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Redwater",
+      "type": "fluid",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwater",
+      "metadata": {
+        "gb": true
+      }
     }
   ],
   "variable_elements": [],
@@ -83,10 +130,15 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabmod": "Mod",
+      "item.gamersmp.darkgamerpt_spawn_egg": "Darkgamerpt Spawn Egg",
       "subtitles.rap_do_minecraft": "rap do minecraft",
       "item.gamersmp.rapmc": "Rap do minecraft",
       "block.gamersmp.cara": "OMG sou eu",
-      "item.gamersmp.rapmc.desc": "KK pq eu adicionei isto??"
+      "block.gamersmp.redwater": "Redwater",
+      "entity.gamersmp.darkgamerpt": "Darkgamerpt",
+      "item.gamersmp.rapmc.desc": "KK pq eu adicionei isto??",
+      "fluid.gamersmp.redwater": "Redwater",
+      "item.gamersmp.redwater_bucket": "Balde de água vermelha"
     }
   },
   "foldersRoot": {

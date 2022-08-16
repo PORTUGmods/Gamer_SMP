@@ -1,7 +1,12 @@
 {
   "itemGroup.tabmod": "Mod",
+  "item.gamersmp.darkgamerpt_spawn_egg": "Darkgamerpt Spawn Egg",
   "subtitles.rap_do_minecraft": "rap do minecraft",
   "item.gamersmp.rapmc": "Rap do minecraft",
   "block.gamersmp.cara": "OMG sou eu",
-  "item.gamersmp.rapmc.desc": "KK pq eu adicionei isto??"
+  "block.gamersmp.redwater": "Redwater",
+  "entity.gamersmp.darkgamerpt": "Darkgamerpt",
+  "item.gamersmp.rapmc.desc": "KK pq eu adicionei isto??",
+  "fluid.gamersmp.redwater": "Redwater",
+  "item.gamersmp.redwater_bucket": "Balde de água vermelha"
 }
